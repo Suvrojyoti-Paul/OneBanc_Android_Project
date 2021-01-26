@@ -5,6 +5,6 @@
 ## then install the apk in your phone.Open the  installed App and Enjoy.
 
 # What is the minimum android version needed for this app?
-## Android 4.1 is the minimum veersion for this app.
+## Android 4.1 is the minimum version for this app.
 
 # My main application name is "The Dish I need".
